@@ -24,13 +24,13 @@ ZAP by [Checkmarx](https://checkmarx.com/).
 
 | Name | Risk Level | Number of Instances |
 | --- | --- | --- |
-| Path Traversal | High | 0 | FIXED
-| SQL Injection | High | 0 | FIXED
-| Content Security Policy (CSP) Header Not Set | Medium | 0 | FIXED
-| Format String Error | Medium | 0 | FIXED
-| Missing Anti-clickjacking Header | Medium | 0 | FIXED
-| Application Error Disclosure | Low | 0 | FIXED
-| X-Content-Type-Options Header Missing | Low | 0 | FIXED
+| Path Traversal | High | 0 | FIXED |
+| SQL Injection | High | 0 | FIXED |
+| Content Security Policy (CSP) Header Not Set | Medium | 0 | FIXED |
+| Format String Error | Medium | 0 | FIXED |
+| Missing Anti-clickjacking Header | Medium | 0 | FIXED |
+| Application Error Disclosure | Low | 0 | FIXED |
+| X-Content-Type-Options Header Missing | Low | 0 | FIXED |
 | User Agent Fuzzer | Informational | 1 |
 
 
