@@ -22,7 +22,7 @@ ZAP by [Checkmarx](https://checkmarx.com/).
 
 ## Alerts
 
-| Name | Risk Level | Number of Instances |
+| Name | Risk Level | Number of Instances | Status |
 | --- | --- | --- |
 | Path Traversal | High | 0 | FIXED |
 | SQL Injection | High | 0 | FIXED |
